@@ -1,7 +1,8 @@
 # CITS3002---Networks
 This read.me file is for the CITS 3002 project for 2020.
 
-The project description may be found at this URL: https://teaching.csse.uwa.edu.au/units/CITS3002/project2020/index.php
+The project description may be found [here](https://web.archive.org/web/20200604201954/https://teaching.csse.uwa.edu.au/units/CITS3002/project2020/index.php).
+
 
 The code associated with this project was tested on Linux Ubuntu 18.04.4 LTS, and is written in Java and Python respectively.
 
